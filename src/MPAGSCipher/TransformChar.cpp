@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-
+#include "TransformChar.hpp"
 
 std::string transformChar(const char inputChar)
 {
